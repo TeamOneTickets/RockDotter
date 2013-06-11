@@ -1,0 +1,24 @@
+{
+    "name": "TeamOneTickets/rock-dotter",
+    "type": "library",
+    "description": "Put Metal Ümlauts where they belong!",
+    "keywords": ["library", "Team One Tickets", "RockDots", "Rock Dots", "Umlauts", "Metal Umlauts"],
+    "homepage": "https://github.com/TeamOneTickets/rock-dotter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "J Cobb"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+    },
+    "autoload": {
+        "psr-0": { "RockDotter": "library/" }
+    },
+    "support": {
+        "issues": "https://github.com/TeamOneTickets/rock-dotter/issues",
+        "wiki": "https://github.com/TeamOneTickets/rock-dotter/wiki",
+        "source": "https://github.com/TeamOneTickets/rock-dotter"
+    }
+}
