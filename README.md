@@ -23,4 +23,4 @@ https://github.com/TeamOneTickets/rock-dotter/wiki
 
 ## LICENSE
 The files in this archive are released under the MIT license.
-You can find a copy of this license in `LICENSE.txt`.
+You can find a copy of this license in [LICENSE.txt](https://github.com/TeamOneTickets/RockDotter/blob/master/LICENSE.txt).
