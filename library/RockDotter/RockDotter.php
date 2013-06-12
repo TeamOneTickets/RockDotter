@@ -134,6 +134,7 @@ class RockDotter
         '/Heimataerde/ui'                       => 'Heimatærde',
 
         '/Celine Dion/ui'                       => 'Céline Dion',
+        '/Korn/ui'                              => 'KoЯn',
     );
 
 
