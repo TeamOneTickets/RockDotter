@@ -135,6 +135,10 @@ class RockDotter
 
         '/Celine Dion/ui'                       => 'Céline Dion',
         '/Korn/ui'                              => 'KoЯn',
+
+        '/Jesus Chrusler Supercar/ui'           => 'Jesus Chrüsler Supercar',
+        '/Jesus Chrysler Supercar/ui'           => 'Jesus Chrüsler Supercar',
+        '/Du Maroc/ui'                          => 'Dú Maroc',
     );
 
 
